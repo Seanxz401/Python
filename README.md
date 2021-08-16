@@ -1,2 +1,2 @@
-# JetBrains
-for projects in JetBrains Academy
+# Python
+for projects in Python
